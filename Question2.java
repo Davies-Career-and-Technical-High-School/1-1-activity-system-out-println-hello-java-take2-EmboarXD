@@ -3,7 +3,8 @@
 class Question2 {
     public static void main(String[] args) {
 
-        /* Write your code here */
-
+        for (int i = 0; i < 3; i++) {
+            System.out.println("Alicia Keys ");
+        }
     }
 }
